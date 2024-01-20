@@ -15,3 +15,8 @@ This dataset can be used for a variety of purposes, including:
 
 # Dashboards:
 
+Screenshots/Dashboard_Bat1.png
+Screenshots/Dashboard_Bat2.png
+Screenshots/Dashboard_Bowl1.png
+Screenshots/Dashboard_Bowl2.png
+
