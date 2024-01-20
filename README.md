@@ -15,8 +15,9 @@ This dataset can be used for a variety of purposes, including:
 
 # Dashboards:
 
-Screenshots/Dashboard_Bat1.png
-Screenshots/Dashboard_Bat2.png
-Screenshots/Dashboard_Bowl1.png
-Screenshots/Dashboard_Bowl2.png
+![Dashboard_Bat1](https://github.com/Chaitanya-2604/ICC_WC_2023_Analysis/assets/119853009/5aee9ea9-cb9c-491c-9e6c-62d1589c7608)
+![Dashboard_Bat2](https://github.com/Chaitanya-2604/ICC_WC_2023_Analysis/assets/119853009/1932076f-7997-4d51-b848-41c4502c968f)
+![Dashboard_Bowl1](https://github.com/Chaitanya-2604/ICC_WC_2023_Analysis/assets/119853009/232439c5-1098-49fb-8dfd-37070332292d)
+![Dashboard_Bowl2](https://github.com/Chaitanya-2604/ICC_WC_2023_Analysis/assets/119853009/95c3b5cf-8466-430a-9c0e-4a52fe02b7b6)
+
 
